@@ -1,0 +1,10 @@
+CODE_NAME,CODE_DEFINITION
+YEAR,Survey year
+QUARTER,"Sample quarter, household record"
+NONIVIEW,"Noninterview reason, Type A"
+FAMNUMTOT,Number of families in hh (from reformatting)
+FAMACPTNO,Number of families in household responding
+REGION,Region of residence
+LIVINGQTR,Type of living quarters
+ASTATFLG,Sample adult flag
+CSTATFLG,Sample child flag

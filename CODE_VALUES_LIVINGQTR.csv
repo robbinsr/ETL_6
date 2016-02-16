@@ -1,0 +1,19 @@
+CODE_VALUE,CODE_DESCRIPTION
+10,"Housing\ unit\,\ kind\ unknown"
+56,Other\ unit\ \-\ not\ specified
+20,"House\,\ apartment\,\ flat"
+21,"House\,\ apartment\,\ flat\,\ condo"
+98,Unknown\ \-\ Not\ ascertained
+33,Mobile\ home\ or\ trailer\ with\ no\ permanent\ room\ added
+32,HU\ in\ rooming\ house
+31,"HU\-permanent\ in\ transient\ hotel\,\ motel\,\ etc\."
+30,"HU\-in\ nontransient\ hotel\,\ motel\,\ etc\."
+51,Quarters\ not\ HU\ in\ rooming\ or\ boarding\ house
+50,Not\ housing\ unit
+40,HU\ not\ specified\ above
+34,Mobile\ home\ or\ trailer\ with\ one\ or\ more\ permanent\ rooms\ added
+55,Other\ group\ quarter
+53,"Unoccupied\ site\ for\ mobile\ home\,\ trailer\ or\ tent"
+54,Student\ quarters\ in\ college\ dormitory
+52,"Unit\ not\ permanent\ in\ transient\ hotel\,\ motel\,\ etc\."
+57,Other\ unit\ \-\ kind\ unknown
