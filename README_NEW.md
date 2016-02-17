@@ -45,25 +45,25 @@ The file used to process `ihis_household_1997_2014.cbk` is `read_codebook.py`. T
 
 The program `read_codebook.py` read and parsed the input codebook file `ihis_household_1997_2014.cbk` which describes some data in the data file `ihis_household_1997_2014.dat`. The files created and output by `read_codebook.py` are:
 
-- data file field names to be used as table column names as well as short descriptions of each of these
- - `CODE_DEFINITIONS.csv`
-- data file field names to be used as table column names as well as the numeric positions in any line in the *.dat file which contains the value that will be placed in that column in an Oracle table.
- - `CODE_POSITIONS.csv`
+- data file field names to be used as table column names as well as short descriptions of each of these column names
+	- `CODE_DEFINITIONS.csv`
+- data file field names to be used as table column names as well as the numeric positions in any line in the *.dat file which contains the value that will be placed in that column in an Oracle table
+	- `CODE_POSITIONS.csv`
 - a file that indicates the years from which data was sampled when the IHIS web site provided data to be used by this ETL process.
- - `SAMPLES_NAMES_AND_TYPES.csv`
+	- `SAMPLES_NAMES_AND_TYPES.csv`
 - a file that contains information about whether an IHIS code is in a sample drawn for a particular year. A file that is a key that explains how to read cell contents is also provided.
- - `CODED_DATA_BY_SAMPLE_INFO.csv`
- - `CODED_DATA_BY_SAMPLE_KEY.csv`
+	- `CODED_DATA_BY_SAMPLE_INFO.csv`
+	- `CODED_DATA_BY_SAMPLE_KEY.csv`
 - files which include, for any field/column, the appropriate data values that are/can be stored in that field/column in the data file/Oracle tables. For the selected household data, the files are:
- - `CODE_VALUES_ASTATFLG.csv`
- - `CODE_VALUES_CSTATFLG.csv`
- - `CODE_VALUES_FAMACPTNO.csv`
- - `CODE_VALUES_FAMNUMTOT.csv`
- - `CODE_VALUES_LIVINGQTR.csv`
- - `CODE_VALUES_NONIVIEW.csv`
- - `CODE_VALUES_QUARTER.csv`
- - `CODE_VALUES_REGION`
- - `CODE_VALUES_YEAR`
+	- `CODE_VALUES_ASTATFLG.csv`
+	- `CODE_VALUES_CSTATFLG.csv`
+	- `CODE_VALUES_FAMACPTNO.csv`
+	- `CODE_VALUES_FAMNUMTOT.csv`
+	- `CODE_VALUES_LIVINGQTR.csv`
+	- `CODE_VALUES_NONIVIEW.csv`
+	- `CODE_VALUES_QUARTER.csv`
+	- `CODE_VALUES_REGION`
+	- `CODE_VALUES_YEAR`
 
 Note that for any *.cbk file (which explains a *.dat file) when read_codebook.py is run against it, these files will always be created:
 
