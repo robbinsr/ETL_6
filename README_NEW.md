@@ -51,7 +51,6 @@ The program `read_codebook.py` read and parsed the input codebook file `ihis_hou
  - `CODE_POSITIONS.csv`
 - a file that indicates the years from which data was sampled when the IHIS web site provided data to be used by this ETL process.
  - `SAMPLES_NAMES_AND_TYPES.csv`
-
 - a file that contains information about whether an IHIS code is in a sample drawn for a particular year. A file that is a key that explains how to read cell contents is also provided.
  - `CODED_DATA_BY_SAMPLE_INFO.csv`
  - `CODED_DATA_BY_SAMPLE_KEY.csv`
