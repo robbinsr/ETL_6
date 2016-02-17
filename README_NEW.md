@@ -11,7 +11,7 @@ If you want to download the file at Dropbox:
 
 1. Select the **box with three circles** at the top right of Dropbox.
 2. Then select
-<img src="https://rawgit.com/robbinsr/robbinsr.github.io/master/assets/images/download.svg" width="100 px" height="50 px" />
+<img src="https://rawgit.com/robbinsr/robbinsr.github.io/master/assets/images/download.svg" width="50 px" height="25 px" />
 from the menu that will appear.
 
 You will be transported to Dropbox if you click ** [here](https://www.dropbox.com/s/zdi3cslajmm6gml/ihis_household_1997_2014.dat?dl=0) **.
