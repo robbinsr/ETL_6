@@ -9,7 +9,7 @@ The size of `ihis_household_1997_2014.dat` is greater than 100 MB.
 Therefore `ihis_household_1997_2014.dat` is stored at a link at **Dropbox**. When you select the link below you will be transported to Dropbox. You can return by simply pressing "BACK" in your browser.
 If you want to download the file at Dropbox:
 
-1. Select the **box with three circles** in it in the top right of Dropbox.
+1. Select the **box with three circles** at the top right of Dropbox.
 2. Select **download** from the menu that will appear.
 
 You will be transported to Dropbox if you click ** [here](https://www.dropbox.com/s/zdi3cslajmm6gml/ihis_household_1997_2014.dat?dl=0) **.
