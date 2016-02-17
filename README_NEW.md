@@ -10,7 +10,7 @@ Therefore `ihis_household_1997_2014.dat` is stored at a link at **Dropbox**. Whe
 If you want to download the file at Dropbox:
 
 1. Select the **box with three circles** at the top right of Dropbox.
-2. Select ![download](http://robbinsr.github.io/assets/images/download.svg) from the menu that will appear.
+2. Select ![download](https://robbinsr.github.io/robbinsr/assets/images/download.svg) from the menu that will appear.
 
 You will be transported to Dropbox if you click ** [here](https://www.dropbox.com/s/zdi3cslajmm6gml/ihis_household_1997_2014.dat?dl=0) **.
 
