@@ -2,9 +2,10 @@
 ---
 
 version 0.1 
+
 Note that the explanation below is still obtuse and will be reworked.
 
-** Towards automating the ETL process **
+**Towards automating the ETL process**
 
 You are reading the `README.md `file in the `ETL_6` repository for Russ Robbins. This repository shows files related to:
 
@@ -15,7 +16,7 @@ Note that an alterative process is opening a connection to the database, creatin
 
 # Inputs to Step 6
 
-** Inputs from IHIS web site **
+**Inputs from IHIS web site**
 
  - `ihis_household_1997_2014.cbk`
  - `ihis_household_1997_2014.dat`
@@ -63,7 +64,7 @@ The program `read_codebook.py` read and parsed the input codebook file `ihis_hou
 	- `CODE_VALUES_NONIVIEW.csv`
 	- `CODE_VALUES_QUARTER.csv`
 	- `CODE_VALUES_REGION`
-	- `CODE_VALUES_YEAR`
+	-  `CODE_VALUES_YEAR`
 
 Note that for any *.cbk file (which explains a *.dat file) when read_codebook.py is run against it, these files will always be created:
 
