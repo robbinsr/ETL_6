@@ -8,5 +8,5 @@ The size of `ihis_household_1997_2014.dat` is greater than 100 MB.
 
 Therefore `ihis_household_1997_2014.dat` is stored at a link at **Dropbox**.
 
-You will be linked to that file if you click** [here](ihis_household_1997_2014.dat)**.
+A new browser tab will opened to that file if you click [**here**](ihis_household_1997_2014.dat).
 
